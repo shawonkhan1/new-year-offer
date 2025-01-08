@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+.banner{
+    background-image: url(/images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin-left: 300px;
+    border-radius: 16px;
+    border-radius: 10px;
+}
+
+
+.banner-title{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 0 344px 177px 344px;
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+    
+}
+.banner-title > h3{
+    padding-top: 177px;
+    font-weight: 400;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    font-family: "Merriweather"
+}
+
+.banner-title > h1{
+    font-weight: 900;
+    font-size: 72px;
+    font-family: "Merriweather"
+}
+
+/* done banner */
+/* share style */
+.colr{
+    color: rgb(255, 0, 0);
+}
+
+ /* all catagoris strt  */
+ .main{
+    text-align: center;
+    margin-top: 90px;
+ }
+ 
+ .main-sub > h1{
+    font-weight: 700;
+    font-size: 88px;
+    margin-bottom: 10px;
+ }
+
+ .main-sub > p{
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 5px;
+ }
+ .main-sub > h4{
+    font-weight: 700;
+    font-size: 48px;
+    margin-top: 5px;
+ }
+
+ .img1 > img{
+    width: 802.9px;
+    height: 500px;
+ }
+
+ /* welcome to midnight party strt */
+
+ .row-prants{
+    background-image: url(/images/Vectorrr.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-left: 300px;
+    justify-content: space-around;
+    border-radius: 16px;
+    margin-top: 70px;
+ }
+
+ 
+ .row-1{
+    text-align: center;
+    height: 400px;
+    width: 500px;
+    background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+ }
+
+ .row-1-sub{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    font-size: 64px;
+    font-family: "Merriweather";
+ }
+ 
+ .row-1 p{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.8);
+    font-family: inherit;
+ }
+ .row-1 a{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+ }
+
+ .row-2 img{
+    padding-right: 150px;
+    padding-top: 68px;
+ }
