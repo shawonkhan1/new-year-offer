@@ -9,7 +9,7 @@
 
 
 .banner{
-    background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(/images/Banner\ Image.png);
+    background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Banner\ Image.png);
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
@@ -82,7 +82,7 @@
  /* welcome to midnight party strt */
 
  .row-prants{
-    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(/images/Vectorrr.png);
+    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Vectorrr.png);
     background-repeat: no-repeat;
     display: flex;
     margin-left: 300px;
