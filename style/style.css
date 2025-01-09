@@ -202,7 +202,7 @@
  .fun-prant{
    text-align: center;
    margin-top: 30px;
-   background-color: rgb(229, 235, 235);
+   background-color: white;
    margin-left: 300px;
    margin-right: 300px;
  }
@@ -226,6 +226,25 @@
  }
  /* 50% discount strt */
 
+
+ .discount-con{
+   background-image: url(/images/Rectangle\ 2.png);
+   background-repeat: no-repeat;
+   margin-left: 300px;
+   margin-right: 300px;
+   margin-bottom: 100px;
+   background-position: bottom;
+  
+}
+
+.p2 img{
+   padding-top: 100px;
+}
+.prantt{
+   display: flex;
+   gap: 73px;
+ 
+}
 
 /* our awasome portfolio strt */
 
@@ -297,6 +316,13 @@
    font-weight: 900;
    font-size: 48px;
 }
+
+/* 50% discount strt */
+
+
+
+
+
 
 
 /* footer strt */
