@@ -261,6 +261,20 @@
 }
 
 /* newslatter  strt */
+
+.news button{
+   width: 248px;
+   height: 55px;
+   margin-left: 0px;
+   margin-right: 0px;
+   background-color: red;
+   border-radius: 0px 20px 20px 0px;
+   border: none;
+
+}
+.news > input{
+   padding-left: 200px;
+}
 .news{
    margin-left: 290px;
    margin-right: 310px;
@@ -273,9 +287,10 @@
    margin-bottom: 100px;
 }
 .news > input{
-   width: 648px;
-   height: 72px;
-   border-radius: 10px;
+   width: 248px;
+   border: none;
+   height: 52px;
+   border-radius: 20px 0 0px 20px;
 }
 
 .news-head{
